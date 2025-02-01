@@ -1,8 +1,16 @@
-# React + Vite
+COMPANY: CODTECH IT SOLUTIONS PVT.LTD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NAME: AMAN PRAKASH SINGH
 
-Currently, two official plugins are available:
+INTERN ID: CT08JRF
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+BATCH DURATION: January 5th, 2025 to February 20th, 2025.
+
+MENTOR NAME: Neela Santhosh Kumar
+
+#DESCRIPTION A Real time chat App created using React.js , node.js and socket.io.  
+Library used-React.js,node.js
+Tools used -VS code,Brave.
+Resources-Chatgpt,Youtube,Github.
+
+OUTPUT
