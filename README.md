@@ -14,3 +14,4 @@ Tools used -VS code,Brave.
 Resources-Chatgpt,Youtube,Github.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/ecef9872-c1c1-462b-a3e9-9e5689effe57)
